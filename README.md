@@ -2,7 +2,8 @@
 Recommendation applet using Last.FM API built using Python 2.7
 
 *********************************V0.01****************************************
-Needs the eyeD3 library to work.
+
+##Needs the eyeD3 library to work.
 ###### sudo apt-get install pip
 ###### pip install eyeD3
 
